@@ -18,12 +18,12 @@ The bird generally falls down due to gravity, we have to use 'space' or 'mouse' 
 
 * The Home screen contains just contains a stationary bird. we have to press either 'space' or use 'mouse' to start the game.
 
-![](/images/fb_basic.png)
+![](/img/fb_basic.png)
 
 * we have to move through the pipes in this game like shown in the below screenshot.
 
-![](/images/fb_game.jpeg)
+![](/img/fb_game.jpeg)
 
 * If we hit the obstacle, the game ends and we get the screen with restart button and our score. To restart we have to use 'space' and after restart your best score gets updated.
 
-![](/images/fb_restart.png)
+![](/img/fb_restart.png)
