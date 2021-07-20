@@ -1,7 +1,7 @@
-# Flappy-Bird
+# Bird-Escape
 
 ## About The Game
-Flappy Bird is a basic bird game made using [python](https://www.python.org/). The game is that the we have to move the bird from start point without hitting the obstacles. We used pipes as the obstacles and used 3 pictures of the bird to create the animation. 
+Bird Escape is a basic bird game made using [python](https://www.python.org/). The game is that the we have to move the bird from start point without hitting the obstacles. We used pipes as the obstacles and used 3 pictures of the bird to create the animation. 
 
 ## Libraries Used
  Python <br />
